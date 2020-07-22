@@ -1,0 +1,6 @@
+name: todo_reporter
+description: Keep track of all your TODOs.
+version: 1.0.0
+
+environment:
+  sdk: ">=2.0.0 <3.0.0"
